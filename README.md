@@ -4,8 +4,8 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ## Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/workit-landing-page-PqpVZM6x1y](https://www.frontendmentor.io/solutions/workit-landing-page-PqpVZM6x1y)
-- Live Site URL: [https://zauri-khutsishvili.github.io/workit-landing-page/](https://zauri-khutsishvili.github.io/workit-landing-page/)
+- Solution URL: [https://www.frontendmentor.io/solutions/article-preview-component-oZWmhCFGAg](https://www.frontendmentor.io/solutions/article-preview-component-oZWmhCFGAg)
+- Live Site URL: [https://zauri-khutsishvili.github.io/article-preview-component/](https://zauri-khutsishvili.github.io/article-preview-component/)
 
 ## Built with
 
