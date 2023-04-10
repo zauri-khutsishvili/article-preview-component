@@ -225,6 +225,10 @@ body {
         border-radius: .625rem 0 0 .625rem;
     }
 
+    .article-preview__text-section {
+        width: 60.959%;
+    }
+
     .article-preview__text {
         padding: 2.199rem 8.9887% .835rem;
     }
